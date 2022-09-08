@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @19Vin70
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
-- 📫 How to reach me 
-      Gmail account
+- 📫 You can reach me at Gmail:
          alqasimquillo@gmail.com
          xiaoalqasim@gmail.com
 
