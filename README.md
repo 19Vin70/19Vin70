@@ -7,10 +7,5 @@
          marvinsaik43@gmail.com
          
          
+![image]({[BadgeURLHere](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
 
-
-
-<!---
-19Vin70/19Vin70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
