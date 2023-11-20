@@ -7,4 +7,4 @@
          marvinsaik43@gmail.com
          
          
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
+![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={19Vin70}})
