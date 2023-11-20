@@ -16,6 +16,4 @@ I embarked on my programming journey in 2022 when I chose IT as my course, and I
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=19Vin70&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/19Vin70)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=19Vin70)  
