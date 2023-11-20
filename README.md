@@ -13,4 +13,4 @@ I embarked on my programming journey in 2022 when I chose IT as my course, and I
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=19Vin70)  
 
-![Profile views](https://gpvc.arturio.dev/19Vin70)  
+
