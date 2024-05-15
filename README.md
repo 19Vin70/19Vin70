@@ -10,4 +10,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=19Vin70&show_icons=true&theme=tokyonight)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=19Vin70&theme=tokyonight)  
 
-[![19Vin70's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=19Vin70&theme=tokyonight)](https://github.com/19Vin70/github-readme-activity-graph)
+[![19Vin70's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=19Vin70&theme=tokyo-night)](https://github.com/19Vin70/github-readme-activity-graph)
