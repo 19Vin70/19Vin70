@@ -10,6 +10,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=19Vin70&show_icons=true&theme=tokyonight)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=19Vin70&theme=tokyonight)  
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=19Vin70&layout=compact&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19Vin70&theme=tokyonight)
+
 [![19Vin70's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=19Vin70&theme=tokyo-night)](https://github.com/19Vin70/github-readme-activity-graph)
 
 [![Check out 19Vin70's profile on stardev.io](https://stardev.io/developers/19Vin70/badge/languages/country.svg)](https://stardev.io/developers/19Vin70)
