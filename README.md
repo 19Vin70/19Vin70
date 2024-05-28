@@ -29,12 +29,12 @@
   </div>
 
   <div align="center" style="margin-top: 20px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19Vin70&theme=tokyo-night" width="100%" height="auto" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19Vin70&theme=prussian" width="100%" height="auto" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19Vin70&theme=tokyo-night" width="48%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=19Vin70&theme=tokyo-night&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19Vin70&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=19Vin70&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
 </div>
 
 <div style="margin-top: 40px;">
