@@ -33,6 +33,20 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=19Vin70&theme=tokyo-night" alt="19Vin70's github activity graph" style="border-radius: 10px;">
     </a>
   </div>
+
+  <div align="center" style="margin-top: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19Vin70&theme=prussian" width="100%" height="auto" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=19Vin70&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19Vin70&theme=prussian" width="48%" height="auto" style="display: inline;" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19Vin70&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=19Vin70&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
+</div>
   
   <div style="margin-top: 20px;">
     <a href="https://stardev.io/developers/19Vin70" style="text-decoration: none;">
