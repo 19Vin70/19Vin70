@@ -33,11 +33,6 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=19Vin70&theme=prussian" width="48%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=19Vin70&theme=prussian" width="48%" height="auto" style="display: inline;" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19Vin70&theme=prussian" width="48%" height="auto" style="display: inline;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=19Vin70&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
 </div>
