@@ -1,6 +1,6 @@
 <div style="text-align: center; font-family: 'Arial', sans-serif; background: #2c2c2c; padding: 20px; border-radius: 10px; color: #f5f5f5;">
   <h1 style="font-size: 2.5em;">Hi, I'm Marvin Quillo Saik <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
-  <p style="font-size: 1.2em;">🚀 Check out my New Portfolio <a href="https://alqasimxiao.vercel.app/" style="color: #007acc; text-decoration: none;">Siao</a></p>
+  <p style="font-size: 1.2em;">🚀 Check out my New Portfolio <a href="https://alqasimxiao.vercel.app/" style="color: #007acc; text-decoration: none;">Alqasim Xiao</a></p>
   <h2 style="margin-top: 40px;">Top Technologies</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
     <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26" alt="HTML5"></a>
