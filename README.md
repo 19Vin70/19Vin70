@@ -4,22 +4,31 @@
 
 ### 🖥 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,bulma,react,materialui" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=sass" title="Sass" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />
 </p>
 
 ### 🔧 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" />
 </p>
 
 ### 🗄 Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,json" />
-</p>
-
-### 📱 Mobile & App Development
-<p>
-  <img src="https://skillicons.dev/icons?i=reactnative" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
+  <img src="https://skillicons.dev/icons?i=json" title="JSON" />
 </p>
 
 ## 📊 GitHub Stats
