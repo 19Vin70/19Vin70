@@ -29,6 +29,7 @@
   <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
   <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
   <img src="https://skillicons.dev/icons?i=json" title="JSON" />
+  <img src="https://skillicons.dev/icons?i=appwrite" title="Appwrite" />
 </p>
 
 ## 📊 GitHub Stats
